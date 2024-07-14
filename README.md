@@ -15,7 +15,7 @@ The Right Weather application is a weather forecasting platform that uses data f
     <img src="https://github.com/user-attachments/assets/933ceeb7-af39-461b-9b59-39eafa8a5533" alt="Imagem 2" style="width: 355px;">
 </div>
 
-### Tecnologias Utilizadas / Technologies Used
+### Tecnologias Utilizadas / Technologies Used 💻
 
 * [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
