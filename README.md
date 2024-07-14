@@ -50,6 +50,5 @@ A aplicação Right Weather é uma plataforma de previsão do tempo que utiliza 
 
 <p>Este projeto foi desenvolvido como um exercício para aprender a <strong> manipular uma API e integrá-la com o frontend. </strong> <strong>Segui o tutorial</strong> do canal do YouTube <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, reproduzindo o passo a passo no meu próprio computador.</p>
 
-
-
-
+## Entre em Contato 📬
+<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>.</p>
