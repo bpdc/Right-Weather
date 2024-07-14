@@ -3,7 +3,7 @@
 Se gostou do projeto, deixe uma ⭐️<strong> [pt_br] </strong> <br>
 If you enjoyed the project, leave a ⭐️<strong> [en] </strong>
 
-# Descrição da Aplicação / Application Description
+# Descrição da Aplicação / Application Description 📃
 
 A aplicação Right Weather é uma plataforma de previsão do tempo que utiliza dados de uma API meteorológica para fornecer informações precisas e atualizadas de diversas localidades ao redor do mundo. Abaixo, você pode visualizar imagens desta aplicação👇<strong> [pt_br] </strong> 
 <br>
@@ -22,7 +22,7 @@ The Right Weather application is a weather forecasting platform that uses data f
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [API - OpenWeather](https://openweathermap.org/)
 
-## Dependências e Versões Necessárias / Dependencies and Required Versions
+## Dependências e Versões Necessárias / Dependencies and Required Versions 🔢
 
 * HTML - Versão: 5.0 <strong> [pt_br] </strong>
 * HTML - Version: 5.0 <strong> [en] </strong>
@@ -31,30 +31,37 @@ The Right Weather application is a weather forecasting platform that uses data f
 * JavaScript - ES6 ou superior (ECMAScript 2015+) <strong> [pt_br] </strong>
 * JavaScript - ES6 or higher (ECMAScript 2015+) <strong> [en] </strong>
 
-## Como Rodar a Aplicação Right Weather ✅
-### Pré-Requisitos
-* Navegador web atualizado (Google Chrome, Firefox, Safari, etc.)
+## Como rodar a aplicação Right Weather / how to run the Right Weather application ✅
+### Pré-Requisitos / Prerequisites
+* Navegador web atualizado (Google Chrome, Firefox, Safari, etc.) <strong> [pt_br] </strong>
+* Updated web browser (Google Chrome, Firefox, Safari, etc.) <strong> [en] </strong>
 
 <ol>
-    <li><strong>Clone o Repositório:</strong>
-        <p>Clone o repositório do GitHub para a sua máquina local usando o comando:</p>
+    <li><strong>Clone o Repositório / Clone the repository </strong>
+        <p>Clone o repositório do GitHub para a sua máquina local usando o comando: <strong> [pt_br] </strong></p>
+        <p>Clone the GitHub repository to your local machine using the command: <strong> [en] </strong></p>
         <pre><code>git clone https://github.com/seu-usuario/right-weather.git</code></pre>
     </li>
-    <li><strong>Navegue até o Diretório do Projeto:</strong>
-        <p>Navegue até o diretório do projeto usando o comando:</p>
+    <li><strong>Navegue até o Diretório do Projeto / Navigate to the project directory </strong> 
+        <p>Navegue até o diretório do projeto usando o comando: <strong> [pt_br] </strong></p>
+        <p>Navigate to the project directory using the command: <strong> [en] </strong></p>
         <pre><code>cd right-weather</code></pre>
     </li>
-    <li><strong>Abra o Arquivo <code>index.html</code> no Navegador:</strong>
-        <p>Abra o arquivo <code>index.html</code> diretamente no seu navegador web. Se estiver utilizando um editor de código como o VS Code, você pode abrir o terminal e usar a extensão Live Server para iniciar um servidor local.</p>
+    <li><strong>Abra o Arquivo <code>index.html</code> no Navegador / Open the file <code>index.html</code> in your browser</strong>
+        <p>Abra o arquivo <code>index.html</code> diretamente no seu navegador web. Se estiver utilizando um editor de código como o VS Code, você pode abrir o terminal e usar a extensão Live Server para iniciar um servidor local. <strong> [pt_br] </strong></p>
+        <p>Open the file <code>index.html</code> directly in your web browser. If you're using a code editor like VS Code, you can open the terminal and use the Live Server extension to start a local server. <strong> [en] </strong></p>
     </li>
-    <li><strong>Utilize a Aplicação:</strong>
-        <p><p>No navegador, você verá a interface da aplicação Right Weather. Insira o nome de uma cidade e clique no botão de busca ou aperte Enter para ver a previsão do tempo atualizada.</p>
+    <li><strong>Utilize a aplicação / Use the application </strong>
+        <p>No navegador, você verá a interface da aplicação Right Weather. Insira o nome de uma cidade e clique no botão de busca ou aperte Enter para ver a previsão do tempo atualizada. <strong> [pt_br] </strong> </p>
+        <p>In your browser, you will see the interface of the Right Weather application. Enter the name of a city and click the search button or press Enter to view the updated weather forecast. <strong> [en] </strong></p>
     </li>
 </ol>
 
-## 📌 Right Weather - Informações importantes sobre a aplicação 📌
+## 📌 Right Weather - Informações importantes sobre a aplicação / Right Weather - Important Information about the Application 📌
 
-<p>Este projeto foi desenvolvido como um exercício para aprender a <strong> manipular uma API e integrá-la com o frontend. </strong> <strong>Segui o tutorial</strong> do canal do YouTube <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, reproduzindo o passo a passo no meu próprio computador.</p>
+<p>Este projeto foi desenvolvido como um exercício para aprender a <strong> manipular uma API e integrá-la com o frontend. </strong> <strong>Segui o tutorial</strong> do canal do YouTube <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, reproduzindo o passo a passo no meu próprio computador. <strong> [pt_br] </strong> </p>
+<p>This project was developed as an exercise to learn how to <strong>manipulate an API and integrate it with the frontend.</strong> I followed the tutorial from the YouTube channel <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, replicating the steps on my own computer. <strong> [en] </strong></p>
 
-## Entre em Contato 📬
-<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>.</p>
+## Entre em Contato / Get in touch 📬
+<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
+<p>If you have any questions or suggestions about this project, feel free to contact me via email at <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [en] </strong></p>
