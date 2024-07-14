@@ -45,3 +45,11 @@ A aplicação Right Weather é uma plataforma de previsão do tempo que utiliza 
         <p><p>No navegador, você verá a interface da aplicação Right Weather. Insira o nome de uma cidade e clique no botão de busca ou aperte Enter para ver a previsão do tempo atualizada.</p>
     </li>
 </ol>
+
+## 📌 Right Weather - Informações importantes sobre a aplicação 📌
+
+<p>Este projeto foi desenvolvido como um exercício para aprender a <strong> manipular uma API e integrá-la com o frontend. </strong> <strong>Segui o tutorial</strong> do canal do YouTube <a href="https://www.youtube.com/channel/UCA4mSGoFH_IQmO4o9Zar-wg" target="_blank">Matheus Battisti - Hora de Codar</a>, reproduzindo o passo a passo no meu próprio computador.</p>
+
+
+
+
