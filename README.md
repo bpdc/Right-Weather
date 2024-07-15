@@ -24,6 +24,9 @@ The Right Weather application is a weather forecasting platform that uses data f
 
 ## Versões Necessárias / Required Versions 🔢
 
+<p>Para que esta aplicação funcione corretamente em sua máquina, é necessário que você tenha as seguintes versões instaladas. <strong> [pt_br] </strong> <br></p>
+<p>To ensure this application works correctly on your machine, you need to have the following versions installed. <strong> [en] </strong></p>
+
 * HTML - Versão: 5.0 <strong> [pt_br] </strong>
 * HTML - Version: 5.0 <strong> [en] </strong>
 * CSS - Versão: 3.0  <strong> [pt_br] </strong>
@@ -33,8 +36,8 @@ The Right Weather application is a weather forecasting platform that uses data f
 
 ## Como rodar a aplicação Right Weather / how to run the Right Weather application ✅
 ### Pré-Requisitos / Prerequisites
-* Navegador web atualizado (Google Chrome, Firefox, Safari, etc.) <strong> [pt_br] </strong>
-* Updated web browser (Google Chrome, Firefox, Safari, etc.) <strong> [en] </strong>
+* Navegador web atualizado (Google Chrome, Firefox, Safari, etc.). <strong> [pt_br] </strong>
+* Updated web browser (Google Chrome, Firefox, Safari, etc.). <strong> [en] </strong>
 
 <ol>
     <li><strong>Clone o Repositório / Clone the repository </strong>
