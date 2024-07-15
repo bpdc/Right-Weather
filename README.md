@@ -68,3 +68,10 @@ The Right Weather application is a weather forecasting platform that uses data f
 ## Entre em Contato / Get in touch 📬
 <p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
 <p>If you have any questions or suggestions about this project, feel free to contact me via email at <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [en] </strong></p>
+
+
+<a href="https://www.youtube.com/watch?v=Mwe0oI3jGDk&t=1s&ab_channel=HeadofSoftwareLab" target="_blank">
+    <img src="https://img.youtube.com/vi/Mwe0oI3jGDk/0.jpg" alt="Watch the tutorial video by @MatheusBattisti" width="480" height="270">
+</a>
+
+
