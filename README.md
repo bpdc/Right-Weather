@@ -45,11 +45,6 @@ The Right Weather application is a weather forecasting platform that uses data f
         <p>Clone the GitHub repository to your local machine using the command: <strong> [en] </strong></p>
         <pre><code>git clone https://github.com/seu-usuario/right-weather.git</code></pre>
     </li>
-    <li><strong>Navegue até o Diretório do Projeto / Navigate to the project directory </strong> 
-        <p>Navegue até o diretório do projeto usando o comando: <strong> [pt_br] </strong></p>
-        <p>Navigate to the project directory using the command: <strong> [en] </strong></p>
-        <pre><code>cd right-weather</code></pre>
-    </li>
     <li><strong>Abra o Arquivo <code>index.html</code> no Navegador / Open the file <code>index.html</code> in your browser</strong>
         <p>Abra o arquivo <code>index.html</code> diretamente no seu navegador web. Se estiver utilizando um editor de código como o VS Code, você pode abrir o terminal e usar a extensão Live Server para iniciar um servidor local. <strong> [pt_br] </strong></p>
         <p>Open the file <code>index.html</code> directly in your web browser. If you're using a code editor like VS Code, you can open the terminal and use the Live Server extension to start a local server. <strong> [en] </strong></p>
