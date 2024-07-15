@@ -65,13 +65,16 @@ The Right Weather application is a weather forecasting platform that uses data f
 <p>Este projeto foi desenvolvido como um exercício para aprender a <strong> manipular uma API e integrá-la com o frontend. </strong> <strong>Segui o tutorial</strong> do canal do YouTube <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, reproduzindo o passo a passo no meu próprio computador. <strong> [pt_br] </strong> </p>
 <p>This project was developed as an exercise to learn how to <strong>manipulate an API and integrate it with the frontend.</strong> I followed the tutorial from the YouTube channel <a href="https://www.youtube.com/@MatheusBattisti" target="_blank">Matheus Battisti - Hora de Codar</a>, replicating the steps on my own computer. <strong> [en] </strong></p>
 
-## Entre em Contato / Get in touch 📬
-<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
-<p>If you have any questions or suggestions about this project, feel free to contact me via email at <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [en] </strong></p>
+## Aplicação em Funcionamento / Application in Operation ▶️
 
+<p>Assista ao vídeo abaixo para ver nossa aplicação em funcionamento. Não deixe de curtir o vídeo e comentar! <strong> [pt_br] </strong></p>
+<p>Watch the video below to see our application in action. Don't forget to like the video and leave a comment! <strong> [en] </strong></p>
 
 <a href="https://www.youtube.com/watch?v=Mwe0oI3jGDk&t=1s&ab_channel=HeadofSoftwareLab" target="_blank">
     <img src="https://img.youtube.com/vi/Mwe0oI3jGDk/0.jpg" alt="Watch the tutorial video by @MatheusBattisti" width="480" height="270">
 </a>
 
+## Entre em Contato / Get in touch 📬
+<p>Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato pelo email <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [pt_br] </strong></p>
+<p>If you have any questions or suggestions about this project, feel free to contact me via email at <a href="mailto:beatriz_de_camargo@hotmail.com">beatriz_de_camargo@hotmail.com</a>. <strong> [en] </strong></p>
 
