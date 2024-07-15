@@ -22,7 +22,7 @@ The Right Weather application is a weather forecasting platform that uses data f
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [API - OpenWeather](https://openweathermap.org/)
 
-## Dependências e Versões Necessárias / Dependencies and Required Versions 🔢
+## Versões Necessárias / Required Versions 🔢
 
 * HTML - Versão: 5.0 <strong> [pt_br] </strong>
 * HTML - Version: 5.0 <strong> [en] </strong>
