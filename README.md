@@ -67,7 +67,7 @@ The Right Weather application is a weather forecasting platform that uses data f
 
 ## Aplicação em Funcionamento / Application in Operation ▶️
 
-<p>Assista ao vídeo abaixo para ver nossa aplicação em funcionamento. Não deixe de curtir o vídeo e comentar! <strong> [pt_br] </strong></p>
+<p>Assista ao vídeo abaixo para ver a aplicação em funcionamento. Não deixe de curtir o vídeo e comentar! <strong> [pt_br] </strong></p>
 <p>Watch the video below to see our application in action. Don't forget to like the video and leave a comment! <strong> [en] </strong></p>
 
 <a href="https://www.youtube.com/watch?v=Mwe0oI3jGDk&t=1s&ab_channel=HeadofSoftwareLab" target="_blank">
