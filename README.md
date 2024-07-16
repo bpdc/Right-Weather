@@ -65,7 +65,7 @@ The Right Weather application is a weather forecasting platform that uses data f
 <p>Assista ao vídeo abaixo para ver a aplicação em funcionamento. Não deixe de curtir o vídeo e comentar! <strong> [pt_br] </strong></p>
 <p>Watch the video below to see our application in action. Don't forget to like the video and leave a comment! <strong> [en] </strong></p>
 
-<a href="https://www.youtube.com/watch?v=9sxzroPb06Y&t=5s&ab_channel=BeatrizPimentadeCamargo" target="_blank">
+<a href="https://youtu.be/9sxzroPb06Y" target="_blank">
     <img src="https://img.youtube.com/vi/9sxzroPb06Y/0.jpg" width="480" height="270" alt="Assista ao vídeo">
 </a>
 
